@@ -1,1 +1,3 @@
-# basic-dockerfile
+# Basic Dockerfile
+
+Simple project for Docker training.
